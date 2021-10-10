@@ -12,4 +12,3 @@ p
     .then(firstName => firstName[0])
     .then(firstLetter => firstLetter.toLowerCase())
     .then(lowerCase => console.log(lowerCase))
-    //.then()
